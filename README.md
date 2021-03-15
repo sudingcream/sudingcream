@@ -3,11 +3,9 @@
 </a>
 <br>
 👀 I’m interested in iOS programing
+🌱 I’m currently learning iOS, Swift, Algorithms...
 <br>
 <br>
-- 🌱 I’m currently learning iOS, Swift, Algorithms...
-<br>
-</a>
 ## 🚀💻 Technologies & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
