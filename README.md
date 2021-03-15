@@ -2,15 +2,10 @@
 <h3 align="center"> software engineer and longlife learner </h3>
 </a>
 <br>
-👀 I’m interested in iOS programing
+👀 I’m interested in iOS programing</br>
 🌱 I’m currently learning iOS, Swift, Algorithms...
 <br>
 <br>
-## 🚀💻 Technologies & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
 
 
 ## OS & Tools
