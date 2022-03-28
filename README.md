@@ -29,6 +29,4 @@ Hi, I’m suding
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudingcream&layout=compact&theme=tokyonight)  
 
-
-#
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+  
