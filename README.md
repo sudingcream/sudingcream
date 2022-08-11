@@ -27,25 +27,6 @@
 Hi, I’m suding
 - <i>Currently:</i> iOS Software Engineer 
 
-<img src="https://img.shields.io/badge/iOS-white?style=flat&logo=Apple&logoColor=000000"/>  <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/> <img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=Xcode&logoColor=147EFB"/> 
 
-<br>
-
-## 🛍 Languages
-<img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
-
-<br>
-
-
-<h2>👀 Stats</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudingcream&show_icons=true&theme=jolly)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudingcream&layout=compact&theme=tokyonight)  
-
-  
-  
-  
   
 
